@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/aleex-adal/ex1"
+	"github.com/aleex-adal/ex1 "
 )
 
 func main() {
